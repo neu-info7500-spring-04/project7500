@@ -3,12 +3,12 @@
         <img src="https://bloomui.s3.us-east-2.amazonaws.com/tokyo-logo.png" alt="Tokyo Free White Typescript React Admin Dashboard">
     </a>
 </p>
-<h1 align="center">
+<h5 align="center">
     <b>
           NEU ID: 002697555 \
           Name: Rutul Patel \
           Email: patel.rutul1@northeastern.edu \
-          Github UserName: https://github.com/rutul8016 \
+          Github UserName: https://github.com/rutul6600 \
           Repository Link: https://github.com/neu-info7500-spring-04/project7500 \
 
 ## Project Description
@@ -44,7 +44,7 @@ After starting the server and client navigate to http://localhost:3000 in your w
     <a href="https://twitter.com/intent/tweet?url=https://bloomui.com&text=I like this React admin dashboard">
         <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
     </a>
-</h1>
+</h5>
 <div align="center">
 
 ![version](https://img.shields.io/badge/version-2.0.0-blue.svg)
